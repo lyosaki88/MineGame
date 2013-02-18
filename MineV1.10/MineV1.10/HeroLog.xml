@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hero>
+  <Easy>
+    <Name>NoName</Name>
+    <Time>999</Time>
+  </Easy>
+  <Normal>
+    <Name>NoName</Name>
+    <Time>999</Time>
+    </Normal>
+  <Hard>
+    <Name>NoName</Name>
+    <Time>999</Time>
+  </Hard>
+</Hero>
